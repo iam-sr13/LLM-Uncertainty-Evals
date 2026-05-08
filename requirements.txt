@@ -1,0 +1,22 @@
+# Core ML / NLP stack
+transformers==4.40.2
+datasets==2.19.1
+accelerate==0.30.1
+evaluate==0.4.2
+sentence-transformers==2.7.0
+
+# Metrics / visualization
+scikit-learn==1.4.2
+matplotlib==3.8.4
+plotly==5.22.0
+ipywidgets==8.1.2
+rouge-score==0.1.2
+bert-score==0.3.13
+
+# Data / numerics
+numpy==1.26.4
+pandas==2.2.2
+
+# Notebook support
+jupyter==1.0.0
+ipykernel==6.29.5

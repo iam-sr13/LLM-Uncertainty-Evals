@@ -1,0 +1,5 @@
+task,metric,value
+math,"Spearman(uncertainty, correctness)",
+open_ended,"Spearman(uncertainty, consistency)",0.7142857142857144
+qa,"Spearman(uncertainty, correctness)",0.45342519294190703
+summarization,"Spearman(uncertainty, ROUGE-L)",0.07142857142857144
